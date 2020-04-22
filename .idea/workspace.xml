@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/dev" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87012239-a2f8-4eab-8d96-76b1737a6ff3" name="Default Changelist" comment="task_2_les_2" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1alENjET3TQDmrbkLCMcdVDqrqQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.les_3_task_6">
+    <configuration name="les_2_task_2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="project_python_apr_2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/les_2_task_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="les_3_task_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project_python_apr_2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/les_3_task_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="les_3_task_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project_python_apr_2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/les_3_task_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="les_3_task_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project_python_apr_2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/les_3_task_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="les_3_task_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project_python_apr_2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/les_3_task_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="les_3_task_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project_python_apr_2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/les_3_task_6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.les_3_task_6" />
+        <item itemvalue="Python.les_3_task_5" />
+        <item itemvalue="Python.les_3_task_4" />
+        <item itemvalue="Python.les_3_task_3" />
+        <item itemvalue="Python.les_3_task_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87012239-a2f8-4eab-8d96-76b1737a6ff3" name="Default Changelist" comment="" />
+      <created>1587301741675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587301741675</updated>
+    </task>
+    <task id="LOCAL-00001" summary="task_1_les_2">
+      <created>1587302774308</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587302774308</updated>
+    </task>
+    <task id="LOCAL-00002" summary="task_1_les_2">
+      <created>1587302862049</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587302862049</updated>
+    </task>
+    <task id="LOCAL-00003" summary="task_1_les_2">
+      <created>1587305528130</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587305528130</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/dev" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/dev" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task_1_les_2" />
+    <MESSAGE value="task_2_les_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="task_2_les_2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="221" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587305780501">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="221" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.827@0.23.1440.827" timestamp="1587305780501" />
+    <state x="454" y="29" key="#les_2_task_2" timestamp="1587305805469">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="454" y="29" key="#les_2_task_2/0.23.1440.827@0.23.1440.827" timestamp="1587305805469" />
+    <state width="689" height="200" key="GridCell.Tab.0.bottom" timestamp="1587585461059">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="689" height="200" key="GridCell.Tab.0.bottom/0.23.1440.824@0.23.1440.824" timestamp="1587585461059" />
+    <state width="1379" height="200" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1587303727637" />
+    <state width="689" height="200" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1587537880075" />
+    <state width="689" height="200" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1587483413404" />
+    <state width="689" height="200" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1587449601565" />
+    <state width="689" height="200" key="GridCell.Tab.0.center" timestamp="1587585461058">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="689" height="200" key="GridCell.Tab.0.center/0.23.1440.824@0.23.1440.824" timestamp="1587585461058" />
+    <state width="1379" height="200" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1587303727636" />
+    <state width="689" height="200" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1587537880073" />
+    <state width="689" height="200" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1587483413403" />
+    <state width="689" height="200" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1587449601564" />
+    <state width="689" height="200" key="GridCell.Tab.0.left" timestamp="1587585461058">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="689" height="200" key="GridCell.Tab.0.left/0.23.1440.824@0.23.1440.824" timestamp="1587585461058" />
+    <state width="1379" height="200" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1587303727635" />
+    <state width="689" height="200" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1587537880072" />
+    <state width="689" height="200" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1587483413403" />
+    <state width="689" height="200" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1587449601563" />
+    <state width="689" height="200" key="GridCell.Tab.0.right" timestamp="1587585461059">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="689" height="200" key="GridCell.Tab.0.right/0.23.1440.824@0.23.1440.824" timestamp="1587585461059" />
+    <state width="1379" height="200" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1587303727636" />
+    <state width="689" height="200" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1587537880074" />
+    <state width="689" height="200" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1587483413403" />
+    <state width="689" height="200" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1587449601564" />
+    <state x="266" y="53" key="SettingsEditor" timestamp="1587304234419">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="266" y="53" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1587304234419" />
+    <state x="357" y="154" key="Vcs.Push.Dialog.v2" timestamp="1587305540411">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="357" y="154" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1587302876851" />
+    <state x="357" y="154" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1587305540411" />
+    <state x="467" y="375" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587301998843">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="467" y="375" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.824@0.23.1440.824" timestamp="1587301998843" />
+    <state x="602" y="212" key="refactoring.ChangeSignatureDialog" timestamp="1587585221965">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="602" y="212" key="refactoring.ChangeSignatureDialog/0.23.1440.824@0.23.1440.824" timestamp="1587585221965" />
+  </component>
+</project>
